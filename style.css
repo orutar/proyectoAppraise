@@ -63,7 +63,7 @@ float:left;
 	width:133px;
 	color:#FFFFFF;
 
-	font-size:16px;
+	font-size:18px;
 	font-weight:bold;
 	text-decoration:none;
 }
@@ -118,7 +118,6 @@ margin-right:25px;
 
 #main .main_body p
 {
-font-size:18px;
 line-height:19px;
 letter-spacing:1px;
 padding-bottom:15px;
